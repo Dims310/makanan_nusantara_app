@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Makanan Nusantara</string>
+    <string name="about">About</string>
+    <string name="pengembang">Pengembang</string>
+    <string name="dev_name">Ardimas Dwi Suprayogi</string>
+    <string name="dev_email">dimasdwisuprayogi@gmail.com</string>
+    <string name="copyrights_terms">Hak cipta gambar diberikan kepada pemilik asli</string>
+    <string name="motto">Membuka pintu petualangan kuliner tanah air. Sajikan hidangan lokal dengan bangga, dan jadikan setiap suapan pengalaman yang menghubungkan Anda dengan keindahan dan keragaman kuliner Nusantara.
+    </string>
+    <string name="asal_daerah">Asal Daerah</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bahan">Bahan</string>
+    <string name="disediakan_oleh">Disediakan oleh</string>
+    <string name="tambah">Tambah</string>
+    <string name="makanan_nusantara">Makanan Nusantara</string>
+
+    <string-array name="food_name">
+        <item>Nasi Uduk</item>
+        <item>Soto Banjar</item>
+        <item>Sayur Asam</item>
+        <item>Rendang</item>
+        <item>Gudeg Yogyakarta</item>
+        <item>Sate Maranggi</item>
+        <item>Ayam Taliwang</item>
+        <item>Gado-gado</item>
+        <item>Pempek</item>
+        <item>Nasi Padang (Ayam Bakar)</item>
+    </string-array>
+
+    <string-array name="food_desc">
+        <item>Sajian harum nasi pandan dengan rempah-rempah, lezat dan menggugah selera</item>
+        <item>Semangkuk hangat, kuah bening, dan daging lembut, cita rasa autentik</item>
+        <item>Segar dan asam, hidangan sayuran berpadu dalam kelezatan tradisional</item>
+        <item>Daging rendang lembut, rempah khas, dan kelezatan yang melekat di lidah</item>
+        <item>Manis, gurih, dan lembut, gudeg klasik dari tanah kelahiran</item>
+        <item>Daging sate beraroma khas Maranggi, nikmatnya melebihi harapan</item>
+        <item>Pedas nikmat, ayam panggang khas Lombok yang menggoyang lidah</item>
+        <item>Sajian sayuran segar dengan bumbu kacang, menciptakan harmoni cita rasa</item>
+        <item>Nikmati kelezatan laut dalam setiap gigitan Pempek, sajian khas Palembang</item>
+        <item>Rendang, gulai, dan sambal merah, perpaduan nikmat dari Sumatra Barat</item>
+    </string-array>
+
+    <string-array name="food_photo">
+        <item>https://asset.kompas.com/crops/dSaRnQ_p8AdhK3wBr3hFDCpRB9c=/0x0:1000x667/750x500/data/photo/2022/07/19/62d63971ebfec.jpg</item>
+        <item>https://akcdn.detik.net.id/visual/2023/02/03/1422605911_43.jpeg?w=720&amp;q=90</item>
+        <item>https://img.kurio.network/nxXnNSatVIgp1b8Eqpfd4DI53lg=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/21/06/14/5e8d8c4b-156a-4847-bfac-f1f17a60d203.jpe</item>
+        <item>https://asset.kompas.com/crops/AWXtnkYHOrbSxSggVuTs3EzQprM=/10x36:890x623/750x500/data/photo/2023/03/25/641e5ef63dea4.jpg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/revisi-2020/thumbnailgudeg.jpg</item>
+        <item>https://www.warisankuliner.com/gfx/recipes/temp_thumb-1628057037.jpg</item>
+        <item>https://www.sasa.co.id/medias/page_medias/ayam_taliwang.jpg</item>
+        <item>https://www.warisankuliner.com/gfx/recipes/temp_thumb-1629362058.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/06/pempek-palembang.jpeg</item>
+        <item>https://assets-pergikuliner.com/4o-dKncqKNS6QQbFDqM52WkrK0o=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/12013/picture-1537766225.jpeg</item>
+    </string-array>
+
+    <integer-array name="food_price">
+        <item>13000</item>
+        <item>20000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>20000</item>
+        <item>25000</item>
+        <item>30000</item>
+        <item>15000</item>
+        <item>20000</item>
+        <item>25000</item>
+    </integer-array>
+
+    <string-array name="food_loc">
+        <item>Jakarta</item>
+        <item>Banjarmasin</item>
+        <item>Jawa</item>
+        <item>Sumatera Barat</item>
+        <item>Yogyakarta</item>
+        <item>Purwakarta</item>
+        <item>Lombok</item>
+        <item>Jakarta</item>
+        <item>Palembang</item>
+        <item>Sumatera Barat</item>
+    </string-array>
+
+    <string-array name="food_detail_desc">
+        <item>Nasi Uduk adalah hidangan khas Indonesia yang terbuat dari nasi yang dimasak dengan santan, daun pandan, serai, dan daun salam. Nasi Uduk biasanya disajikan dengan lauk-pauk seperti telur, tempe, tahu, ayam goreng, ikan asin, dan sambal. Hidangan ini memiliki aroma harum dari santan dan cita rasa gurih yang begitu khas.</item>
+        <item>Soto Banjar adalah semacam sup tradisional khas Kalimantan Selatan, Indonesia. Kuahnya yang kental dan berbumbu, dihasilkan dari rebusan daging sapi yang diolah dengan rempah-rempah seperti serai, jahe, daun jeruk, dan bumbu-bumbu lainnya. Soto Banjar biasanya disajikan dengan nasi, potongan daging sapi, telur rebus, tauge, dan bawang goreng.</item>
+        <item>Sayur Asam adalah hidangan sayuran yang asam segar dan lezat. Sayuran seperti kangkung, kacang panjang, labu siam, terong, dan jagung dimasak dalam kuah asam yang diberi cita rasa dengan asam jawa. Biasanya, sayur asam juga diberi tambahan daun melinjo, bumbu-bumbu tradisional, dan disajikan dengan nasi.</item>
+        <item>Rendang adalah hidangan daging khas Minangkabau yang dimasak dalam santan kelapa dan rempah-rempah hingga kuahnya mengering dan daging menjadi empuk. Rendang memiliki cita rasa yang kaya, gurih, dan pedas. Hidangan ini sering dianggap sebagai salah satu masakan daging yang paling lezat di dunia.</item>
+        <item>Gudeg merupakan hidangan khas Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan, kelapa parut, dan berbagai rempah-rempah. Gudeg memiliki rasa manis yang unik dan biasanya disajikan dengan nasi, ayam suwir, telur, tahu, dan sambal goreng krecek.</item>
+        <item>Sate Maranggi adalah versi sate khas daerah Purwakarta, Jawa Barat. Daging yang digunakan biasanya adalah daging sapi, dimarinasi dengan bumbu khas seperti kecap manis, bawang merah, bawang putih, dan kemiri. Sate Maranggi biasanya disajikan dengan sambal kecap dan lalapan.</item>
+        <item>Ayam Taliwang adalah hidangan khas Lombok, Nusa Tenggara Barat. Ayam panggang yang disajikan dengan sambal pedas khas Taliwang. Ayam Taliwang memiliki cita rasa yang pedas dan beraroma khas dari bumbu-bumbu yang digunakan dalam proses pemanggangan.</item>
+        <item>Gado-gado adalah hidangan salad sayuran yang dicampur dengan bumbu kacang. Sayuran yang digunakan bisa bervariasi, seperti kentang, tahu, tempe, bayam, dan lainnya. Gado-gado disajikan dengan bumbu kacang yang kental dan kadang-kadang ditambahkan dengan kerupuk untuk memberikan tekstur renyah.</item>
+        <item>Pempek merupakan hidangan khas Palembang, Sumatra Selatan, yang terbuat dari ikan dan tepung sagu. Pempek biasanya disajikan dengan kuah cuko yang pedas dan asam. Ada berbagai jenis pempek, seperti kapal selam, lenjer, dan adaan, yang masing-masing memiliki bentuk dan isian yang berbeda.</item>
+        <item>Nasi Padang merupakan hidangan khas dari Sumatra Barat. Hidangan ini terdiri dari nasi putih yang disajikan dengan berbagai lauk-pauk, seperti rendang, sambal balado, gulai ayam, ikan bakar, dan banyak lagi. Nasi Padang terkenal karena keberagaman rasa dan aroma yang dihasilkan dari berbagai bumbu dan rempah yang digunakan dalam setiap hidangan.</item>
+    </string-array>
+
+    <string-array name="food_bahan">
+        <item>Nasi, Santan, Daun pandan, Serai, Daun salam, Garam</item>
+        <item>Daging sapi, Air, Serai, Jahe, Daun jeruk, Bawang putih, Bumbu-bumbu lain seperti ketumbar, jintan, garam, dan lada</item>
+        <item>Kangkung, Kacang panjang, Labu siam, Terong, Jagung, Asam jawa, Daun melinjo, Bumbu-bumbu seperti bawang merah, bawang putih, garam, dan lada</item>
+        <item>Daging sapi, Santan kelapa, Serai, Daun jeruk, Daun kunyit, Asam kandis, Bumbu rendang (termasuk bawang merah, bawang putih, cabai, kunyit, ketumbar, jintan, pala, dan kayu manis)</item>
+        <item>Nangka muda, Santan kelapa, Gula merah, Daun salam, Serai, Bumbu-bumbu seperti bawang putih, garam, dan lada</item>
+        <item>Daging sapi, Bumbu marinasi (termasuk kecap manis, bawang merah, bawang putih, kemiri, dan ketumbar)</item>
+        <item>Ayam, Bumbu marinasi dan saus (termasuk cabai, bawang merah, bawang putih, terasi, garam, dan gula)</item>
+        <item>Sayuran seperti kentang, tahu, tempe, bayam, dan lainnya, Bumbu kacang (termasuk kacang tanah, cabai, bawang putih, gula, dan garam)</item>
+        <item>Ikan (biasanya ikan tenggiri), Tepung sagu, Air, Garam, Bumbu pempek (termasuk bawang putih, gula, dan penyedap)</item>
+        <item>Nasi, Rendang (daging sapi, santan, bumbu rendang), Gulai ayam (daging ayam, santan, bumbu gulai), Sambal balado (cabai, bawang, tomat), Ikan bakar (dengan bumbu khas), Telur balado (telur, cabai, bawang), Kerupuk, Sayuran sebagai lalapan</item>
+    </string-array>
+</resources>
